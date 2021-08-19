@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,UACI,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,gBAAiB,CACjB,iBACJ","file":"main.55447b51.chunk.css","sourcesContent":[".g-signin{\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    margin-top: -50px;\n    margin-left: -50px;\n}"]}

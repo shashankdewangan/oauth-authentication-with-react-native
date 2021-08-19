@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oauth-authentication-with-react-native/static/css/main.55447b51.chunk.css",
+    "main.js": "/oauth-authentication-with-react-native/static/js/main.4f07d374.chunk.js",
+    "main.js.map": "/oauth-authentication-with-react-native/static/js/main.4f07d374.chunk.js.map",
+    "runtime-main.js": "/oauth-authentication-with-react-native/static/js/runtime-main.72e05306.js",
+    "runtime-main.js.map": "/oauth-authentication-with-react-native/static/js/runtime-main.72e05306.js.map",
+    "static/js/2.36ab249f.chunk.js": "/oauth-authentication-with-react-native/static/js/2.36ab249f.chunk.js",
+    "static/js/2.36ab249f.chunk.js.map": "/oauth-authentication-with-react-native/static/js/2.36ab249f.chunk.js.map",
+    "index.html": "/oauth-authentication-with-react-native/index.html",
+    "static/css/main.55447b51.chunk.css.map": "/oauth-authentication-with-react-native/static/css/main.55447b51.chunk.css.map",
+    "static/js/2.36ab249f.chunk.js.LICENSE.txt": "/oauth-authentication-with-react-native/static/js/2.36ab249f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e05306.js",
+    "static/js/2.36ab249f.chunk.js",
+    "static/css/main.55447b51.chunk.css",
+    "static/js/main.4f07d374.chunk.js"
+  ]
+}
